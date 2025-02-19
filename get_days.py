@@ -9,4 +9,4 @@ def get_days_from_today(date_str):
     days_difference = (given_date - today).days
     
     return days_difference
-print (get_days_from_today("2021-10-09"))
+print (get_days_from_today("2025-10-09"))
